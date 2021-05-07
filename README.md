@@ -16,7 +16,6 @@ currently living in <b>Penha - SC.</b></p>
 <h3>Languages</h3>
 <p>
   <code><img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width=35 height=35/></code>
-  <code><img src="https://www.flaticon.com/svg/vstatic/svg/919/919830.svg?token=exp=1615771128~hmac=6cf6c3d207a0b5898de829718b985291" width=35 height=35/></code>
   <code><img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width=35 height=35/></code>
   <code><img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" width=31 height=31/></code>
   <code><img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width=35 height=40/></code>
